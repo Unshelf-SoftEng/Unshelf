@@ -4,3 +4,6 @@
 [submodule "seller"]
 	path = seller
 	url = https://github.com/Unshelf-SoftEng/unshelf_seller
+[submodule "ai"]
+	path = ai
+	url = https://github.com/Unshelf-SoftEng/Unshelf_AI
