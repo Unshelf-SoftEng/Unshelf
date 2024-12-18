@@ -7,3 +7,6 @@
 [submodule "ai"]
 	path = ai
 	url = https://github.com/Unshelf-SoftEng/Unshelf_AI
+[submodule "admin"]
+	path = admin
+	url = https://github.com/Unshelf-SoftEng/Unshelf_Admin
